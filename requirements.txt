@@ -1,0 +1,17 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.1.8
+colorama==0.4.6
+comtypes==1.4.10
+gTTS==2.5.4
+idna==3.10
+PyAudio==0.2.14
+pygame==2.6.1
+pypiwin32==223
+pyttsx3==2.98
+pywin32==308
+requests==2.32.3
+setuptools==75.8.0
+SpeechRecognition==3.14.1
+typing_extensions==4.12.2
+urllib3==2.3.0
